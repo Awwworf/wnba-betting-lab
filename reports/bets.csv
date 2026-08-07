@@ -1,0 +1,4 @@
+date,match,bet,market,odds,stake,result,return,profit,bank_after
+2026-08-07,MIN-LAS,LA Sparks total under 85.5,team_total,1.82,0.25,LOSS,0.00,-0.25,
+2026-08-07,MIN-LAS,Minnesota -17.5,handicap,1.72,0.25,LOSS,0.00,-0.25,
+2026-08-07,IND-LVA,Las Vegas +1.5,handicap,1.82,0.25,WIN,0.455,+0.205,29.71
