@@ -2,3 +2,9 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-07,MIN-LAS,LA Sparks total under 85.5,team_total,1.82,0.25,LOSS,0.00,-0.25,
 2026-08-07,MIN-LAS,Minnesota -17.5,handicap,1.72,0.25,LOSS,0.00,-0.25,
 2026-08-07,IND-LVA,Las Vegas +1.5,handicap,1.82,0.25,WIN,0.455,+0.205,29.71
+2026-08-08,CON-PHO,Connecticut total under 83.5,team_total,1.89,0.30,WIN,0.567,+0.267,
+2026-08-08,CON-PHO,Connecticut +7,handicap,1.81,0.25,WIN,0.4525,+0.2025,
+2026-08-08,WAS-ATL,Washington +5.5,handicap,1.91,0.30,WIN,0.573,+0.273,
+2026-08-08,WAS-ATL,Washington ML,moneyline,2.75,0.15,WIN,0.4125,+0.2625,
+2026-08-08,DAL-GSV,Golden State +1.5,handicap,1.82,0.30,WIN,0.546,+0.246,
+2026-08-08,DAL-GSV,Dallas total under 81.5,team_total,1.82,0.25,WIN,0.455,+0.205,31.16
