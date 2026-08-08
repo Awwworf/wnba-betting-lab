@@ -15,7 +15,8 @@
 - Риск-менеджер (я): финальное решение по размеру ставки
 
 ## Файлы
-- bets.csv — реестр ставок
-- bank_history.csv — банк по дням
-- lessons.md — уроки модели
-- Daily reports/ — ежедневные отчёты со статистикой
+
+- Struktura/bets.csv — реестр ставок
+- Struktura/bank_history.csv — банк по дням
+- Struktura/lessons.md — уроки модели
+- Struktura/Daily reports/ — ежедневные отчёты со статистикой
