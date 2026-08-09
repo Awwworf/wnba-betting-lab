@@ -8,3 +8,10 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-08,WAS-ATL,Washington ML,moneyline,2.75,0.15,WIN,0.4125,+0.2625,
 2026-08-08,DAL-GSV,Golden State +1.5,handicap,1.82,0.30,WIN,0.546,+0.246,
 2026-08-08,DAL-GSV,Dallas total under 81.5,team_total,1.82,0.25,WIN,0.455,+0.205,31.16
+2026-08-08,MIN-LVA,Las Vegas +4.5,handicap,1.90,0.25,LOSS,0.00,-0.25,
+2026-08-08,MIN-LVA,Las Vegas ML,moneyline,2.55,0.15,LOSS,0.00,-0.15,
+2026-08-08,MIN-LVA,Las Vegas +5.5 live,handicap_live,1.90,0.25,LOSS,0.00,-0.25,
+2026-08-08,CHI-IND,Chicago +5.5,handicap,1.98,0.15,WIN,0.297,+0.147,
+2026-08-08,CHI-IND,Chicago +11.5 live,handicap_live,1.95,0.25,WIN,0.4875,+0.2375,
+2026-08-08,CHI-IND,Total over 191,total,1.85,0.25,LOSS,0.00,-0.25,
+2026-08-09,LVA-NYL,Las Vegas +14.5 live,handicap_live,1.90,0.25,LOSS,0.00,-0.25,30.40
