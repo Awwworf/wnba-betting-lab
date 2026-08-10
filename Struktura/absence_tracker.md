@@ -150,3 +150,8 @@ Inactive 09.08: Gray, Parker-Tyus, Wilson, Young. Обрезок: 71 очко,
 ### NYL
 Inactive 09.08: Fiebich, Sabally, Maley. Бенч (Йоханнес 27) добивает
 в garbage time — маржа не стабилизируется.
+
+### Обновление 10.08
+- LAS: Акоа-Макани GTD → inactive (скретч) — минус их лучший импульс скамейки
+- GSV: Зандаласини GTD → играла (15, 5/5 3P) — возврат в форму после GTD
+- GSV inactive: Руперт, Сова, Прехтел | LAS inactive: Пили, Морган
