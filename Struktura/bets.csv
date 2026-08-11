@@ -18,3 +18,9 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-09,WAS-PHO,Total under 168,total,1.99,0.25,LOSS,0.00,-0.25,
 2026-08-09,MIN-DAL,Dallas IT under 85.5,team_total,1.93,0.25,LOSS,0.00,-0.25,
 2026-08-10,LAS-GSV,GSV -5.5,handicap,1.80,0.25,WIN,0.45,+0.20,30.10
+2026-08-11,TOR-ATL,Toronto IT under 86.5,team_total,1.81,0.25,LOSS,0.00,-0.25,
+2026-08-11,TOR-ATL,Gray points over 18.5,player_prop,1.74,0.15,LOSS,0.00,-0.15,
+2026-08-11,TOR-ATL,Reese reb over 12.5,player_prop,1.85,0.15,WIN,0.2775,+0.1275,29.83
+2026-08-11,CHI-SEA,Seattle IT under 88.5,team_total,1.88,0.25,LOSS,0.00,-0.25,
+2026-08-11,CHI-SEA,Melbourne points over 9.5,player_prop,1.91,0.15,LOSS,0.00,-0.15,
+2026-08-11,CHI-SEA,Cardoso reb over 8.5,player_prop,1.86,0.15,WIN,0.279,+0.129,29.56
