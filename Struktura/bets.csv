@@ -27,3 +27,9 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-12,IND-NYL,Mitchell points over 24.5,player_prop,1.86,0.15,WIN,0.279,+0.129,
 2026-08-12,IND-NYL,Clark ast over 9.5,player_prop,1.91,0.15,WIN,0.2865,+0.1365,
 2026-08-12,IND-NYL,Boston reb over 9.5,player_prop,2.00,0.10,LOSS,0.00,-0.10,29.73
+2026-08-12,LAS-PHO,Phoenix IT under 88.5,team_total,1.85,0.25,LOSS,0.00,-0.25,
+2026-08-12,LAS-PHO,Copper points under 22.5,player_prop,1.87,0.15,WIN,0.2805,+0.1305,
+2026-08-12,LAS-PHO,Thomas points under 15.5,player_prop,1.97,0.15,LOSS,0.00,-0.15,
+2026-08-12,LAS-PHO,Wheeler points over 9.5,player_prop,1.94,0.15,LOSS,0.00,-0.15,29.56
+2026-08-12,IND-NYL,NYL +3,handicap,1.87,0.25,LOSS,0.00,-0.25,
+2026-08-12,IND-NYL,Total over 190,total,1.83,0.25,WIN,0.4575,+0.2075,29.51
