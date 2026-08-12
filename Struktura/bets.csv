@@ -33,3 +33,5 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-12,LAS-PHO,Wheeler points over 9.5,player_prop,1.94,0.15,LOSS,0.00,-0.15,29.56
 2026-08-12,IND-NYL,NYL +3,handicap,1.87,0.25,LOSS,0.00,-0.25,
 2026-08-12,IND-NYL,Total over 190,total,1.83,0.25,WIN,0.4575,+0.2075,29.51
+2026-08-12,WAS-LVA,Young points over 18.5,player_prop,1.74,0.15,WIN,0.261,+0.111,
+2026-08-12,WAS-LVA,Wilson reb over 9.5,player_prop,1.93,0.15,WIN,0.2895,+0.1395,29.98
