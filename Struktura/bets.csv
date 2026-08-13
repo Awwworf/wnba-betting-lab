@@ -35,3 +35,9 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-12,IND-NYL,Total over 190,total,1.83,0.25,WIN,0.4575,+0.2075,29.51
 2026-08-12,WAS-LVA,Young points over 18.5,player_prop,1.74,0.15,WIN,0.261,+0.111,
 2026-08-12,WAS-LVA,Wilson reb over 9.5,player_prop,1.93,0.15,WIN,0.2895,+0.1395,29.98
+2026-08-13,DAL-TOR,Mabrey points over 19.5,player_prop,1.91,0.15,WIN,0.2865,+0.1365,
+2026-08-13,DAL-TOR,N.Sabally reb over 5.5,player_prop,1.69,0.15,WIN,0.2535,+0.1035,
+2026-08-13,CHI-GSV,Cardoso reb over 8.5,player_prop,1.74,0.15,LOSS,0.00,-0.15,
+2026-08-13,CHI-GSV,Salaun points under 11.5,player_prop,1.86,0.10,VOID,0.10,0.00,
+2026-08-13,POR-MIN,Miles points over 17.5,player_prop,1.85,0.15,LOSS,0.00,-0.15,
+2026-08-13,POR-MIN,Collier points over 20.5,player_prop,1.91,0.10,LOSS,0.00,-0.10,29.82
