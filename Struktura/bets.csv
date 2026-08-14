@@ -41,3 +41,10 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-13,CHI-GSV,Salaun points under 11.5,player_prop,1.86,0.10,VOID,0.10,0.00,
 2026-08-13,POR-MIN,Miles points over 17.5,player_prop,1.85,0.15,LOSS,0.00,-0.15,
 2026-08-13,POR-MIN,Collier points over 20.5,player_prop,1.91,0.10,LOSS,0.00,-0.10,29.82
+2026-08-14,CON-ATL,Howard points over 16.5,player_prop,1.76,0.15,WIN,0.264,+0.114,
+2026-08-14,CON-ATL,Reese reb over 12.5,player_prop,1.84,0.15,WIN,0.276,+0.126,30.06
+2026-08-14,NYL-LAS,Hamby points over 13.5,player_prop,1.75,0.15,WIN,0.2625,+0.1125,
+2026-08-14,NYL-LAS,Ogwumike reb over 8.5,player_prop,2.00,0.10,WIN,0.20,+0.10,
+2026-08-14,NYL-LAS,Stewart points under 22.5,player_prop,1.94,0.10,WIN,0.194,+0.094,30.37
+2026-08-14,WAS-LVA,Young points over 20.5,player_prop,1.94,0.15,WIN,0.291,+0.141,
+2026-08-14,WAS-LVA,Austin points over 17.5,player_prop,1.90,0.15,WIN,0.285,+0.135,30.65
