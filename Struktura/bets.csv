@@ -54,3 +54,5 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-15,SEA-POR,Carlton points over 16.5,player_prop,1.85,0.15,LOSS,0.00,-0.15,
 2026-08-15,SEA-POR,Malonga points over 19.5,player_prop,1.77,0.15,LOSS,0.00,-0.15,
 2026-08-15,SEA-POR,Leite points under 16.5,player_prop,1.84,0.10,WIN,0.184,+0.084,30.51
+2026-08-15,CON-NYL,Johannes points over 10.5,player_prop,1.92,0.10,WIN,0.192,+0.092,
+2026-08-15,CON-NYL,Jones reb over 9.5,player_prop,2.03,0.15,WIN,0.3045,+0.1545,30.76
