@@ -62,3 +62,8 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-16,LVA-MIN,Young points over 18.5,player_prop,1.74,0.15,LOSS,0.00,-0.15,
 2026-08-16,LVA-MIN,Collier points over 19.5,player_prop,1.90,0.15,LOSS,0.00,-0.15,
 2026-08-16,LVA-MIN,Howard points over 12.5,player_prop,2.03,0.10,WIN,0.203,+0.103,30.46
+2026-08-17,SEA-CHI,Cardoso reb over 9.5,player_prop,2.09,0.15,WIN,0.3135,+0.1635
+2026-08-17,SEA-CHI,Vandersloot ast over 4.5,player_prop,1.61,0.10,WIN,0.161,+0.061
+2026-08-17,ATL-IND,Reese reb over 12.5,player_prop,2.04,0.15,WIN,0.306,+0.156
+2026-08-17,ATL-IND,Clark ast over 9.5,player_prop,2.03,0.10,LOSS,0,-0.10
+2026-08-17,PHX-POR,Copper pts under 22.5,player_prop,1.77,0.10,WIN,0.177,+0.077
