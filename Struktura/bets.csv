@@ -67,3 +67,5 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-17,ATL-IND,Reese reb over 12.5,player_prop,2.04,0.15,WIN,0.306,+0.156,
 2026-08-17,ATL-IND,Clark ast over 9.5,player_prop,2.03,0.10,LOSS,0.00,-0.10,30.44
 2026-08-17,PHX-POR,Copper pts under 22.5,player_prop,1.77,0.10,WIN,0.177,+0.077,30.52
+2026-08-18,GSV-DAL,GSV -6,handicap,1.89,0.15,WIN,0.2835,+0.1335,
+2026-08-18,GSV-DAL,Bueckers points over 18.5,player_prop,1.83,0.10,WIN,0.183,+0.083,30.73
