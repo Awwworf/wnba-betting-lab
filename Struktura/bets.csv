@@ -69,3 +69,11 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-17,PHX-POR,Copper pts under 22.5,player_prop,1.77,0.10,WIN,0.177,+0.077,30.52
 2026-08-18,GSV-DAL,GSV -6,handicap,1.89,0.15,WIN,0.2835,+0.1335,
 2026-08-18,GSV-DAL,Bueckers points over 18.5,player_prop,1.83,0.10,WIN,0.183,+0.083,30.73
+2026-08-19,TOR-IND,Mabrey points over 19.5,player_prop,1.75,0.10,WIN,0.175,+0.075,
+2026-08-19,TOR-IND,Clark points over 24.5,player_prop,1.93,0.10,LOSS,0.00,-0.10,
+2026-08-19,CON-LAS,Burrell points over 17.5,player_prop,1.91,0.10,WIN,0.191,+0.091,
+2026-08-19,LVA-ATL,Reese reb over 12.5,player_prop,1.90,0.15,LOSS,0.00,-0.15,
+2026-08-19,LVA-ATL,Gray points over 19.5,player_prop,1.83,0.10,WIN,0.183,+0.083,
+2026-08-19,LVA-ATL,Howard points over 17.5,player_prop,1.83,0.10,WIN,0.183,+0.083,
+2026-08-19,CHI-NYL,Cardoso reb over 7.5,player_prop,1.59,0.15,WIN,0.2385,+0.0885,30.98
+2026-08-19,CHI-NYL,Vandersloot ast over 4.5,player_prop,1.69,0.10,WIN,0.169,+0.069,30.98
