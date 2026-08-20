@@ -77,3 +77,9 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-19,LVA-ATL,Howard points over 17.5,player_prop,1.83,0.10,WIN,0.183,+0.083,
 2026-08-19,CHI-NYL,Cardoso reb over 7.5,player_prop,1.59,0.15,WIN,0.2385,+0.0885,30.98
 2026-08-19,CHI-NYL,Vandersloot ast over 4.5,player_prop,1.69,0.10,WIN,0.169,+0.069,30.98
+2026-08-20,WAS-TOR,Morrow reb over 8.5,player_prop,1.75,0.15,LOSS,0.00,-0.15,
+2026-08-20,WAS-TOR,Austin points over 19.5,player_prop,2.03,0.10,LOSS,0.00,-0.10,
+2026-08-20,GSV-MIN,GSV +2,handicap,1.95,0.15,LOSS,0.00,-0.15,
+2026-08-20,GSV-MIN,Howard reb over 7.5,player_prop,2.29,0.15,LOSS,0.00,-0.15,
+2026-08-20,GSV-MIN,Collier points over 18.5,player_prop,1.94,0.10,LOSS,0.00,-0.10,
+2026-08-20,GSV-MIN,Hayes points over 8.5,player_prop,1.84,0.10,WIN,0.184,+0.084,30.41
