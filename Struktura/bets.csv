@@ -84,9 +84,9 @@ date,match,bet,market,odds,stake,result,return,profit,bank_after
 2026-08-20,GSV-MIN,Collier points over 18.5,player_prop,1.94,0.10,LOSS,0.00,-0.10,
 2026-08-20,GSV-MIN,Hayes points over 8.5,player_prop,1.84,0.10,WIN,0.184,+0.084,30.41
 2026-08-21,DAL-IND,Bueckers points over 21.5,player_prop,1.94,0.45,LOSS,0.00,-0.45,
-2026-08-21,IND-DAL,Shepard points under 13.5,player_prop,1.82,0.20,LOSS,0.00,-0.20,29.96
+2026-08-21,IND-DAL,Shepard points under 13.5,player_prop,1.82,0.20,LOSS,0.00,-0.20,
 2026-08-21,DAL-IND,Ogunbowale points over 16.5,player_prop,1.76,0.30,WIN,0.528,+0.228,
-2026-08-21,LVA-CON,Lacan assists over 4.5,player_prop,1.83,0.15,LOSS,0.00,-0.15,29.81
-2026-08-21,LVA-CON,Nelson-Ododa points over 11.5,player_prop,1.78,0.15,WIN,0.267,+0.117,29.56
+2026-08-21,LVA-CON,Lacan assists over 4.5,player_prop,1.83,0.15,LOSS,0.00,-0.15,
+2026-08-21,LVA-CON,Nelson-Ododa points over 11.5,player_prop,1.78,0.15,WIN,0.267,+0.117,
 2026-08-21,LAS-ATL,Gray points over 19.5,player_prop,1.76,0.45,LOSS,0.00,-0.45,
-2026-08-21,LAS-ATL,Burrell points over 16.5,player_prop,1.99,0.30,LOSS,0.00,-0.30,
+2026-08-21,LAS-ATL,Burrell points over 16.5,player_prop,1.99,0.30,LOSS,0.00,-0.30,29.2
